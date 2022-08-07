@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WrCIgGVNNyW87ryrlQ9RGklIvN5egiOLUK7kwI2MXO0=",
+  "Source": "precip",
+  "BasePath": "_content/precip",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
